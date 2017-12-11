@@ -18,32 +18,28 @@ namespace appAndroidDP
 
             SetContentView(Resource.Layout.Main);
 
-            ProgressDialog progress = new ProgressDialog(this);
-            progress.Indeterminate = true;
-            progress.SetProgressStyle(ProgressDialogStyle.Spinner);
-            progress.SetMessage("Aguarde...");
-            progress.SetCancelable(false);
+
 
 
             Button btnClickId = FindViewById<Button>(Resource.Id.btnClickId);
 
-            btnClickId.Click += (sender, args) =>
+            btnClickId.Click += async (sender, args) =>
             {
-                RunOnUiThread(() =>
-                {
-                    progress.Show();
-                    Thread.Sleep(5000);
-                    progress.Dismiss();
-                });
+             var    progress = new Android.App.ProgressDialog(this);
+                progress.Indeterminate = true;
+                progress.SetProgressStyle(Android.App.ProgressDialogStyle.Spinner);
+                progress.SetMessage("Aguarde...");
+                progress.SetCancelable(false);
+                progress.Show();
+
+                await Task.Delay(5000);
+
                 guid = Guid.NewGuid();
-                Toast.MakeText(ApplicationContext, guid.ToString(), 
-                    ToastLength.Long).Show();
+                progress.Dismiss();
 
                 StartActivity(typeof(WebViewActivity));
-
-
-
-
+               
+               
             };
 
         }

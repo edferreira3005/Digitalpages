@@ -1,0 +1,8 @@
+appAndroidDP.WebViewActivity, appAndroidDP;md5ae3a70b5f7a5777a78f5bd7d3796db09.WebViewActivity
+appAndroidDP.WebViewActivity, appAndroidDP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ae3a70b5f7a5777a78f5bd7d3796db09.WebViewActivity
+appAndroidDP.WebViewActivity;md5ae3a70b5f7a5777a78f5bd7d3796db09.WebViewActivity
+appandroiddp.WebViewActivity;md5ae3a70b5f7a5777a78f5bd7d3796db09.WebViewActivity
+appAndroidDP.MainActivity, appAndroidDP;md5ae3a70b5f7a5777a78f5bd7d3796db09.MainActivity
+appAndroidDP.MainActivity, appAndroidDP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ae3a70b5f7a5777a78f5bd7d3796db09.MainActivity
+appAndroidDP.MainActivity;md5ae3a70b5f7a5777a78f5bd7d3796db09.MainActivity
+appandroiddp.MainActivity;md5ae3a70b5f7a5777a78f5bd7d3796db09.MainActivity

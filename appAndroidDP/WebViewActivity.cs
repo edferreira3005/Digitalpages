@@ -1,17 +1,11 @@
 ﻿using Android.App;
 using Android.Widget;
 using Android.OS;
-using System;
-using Java.Lang;
-using System.Threading.Tasks;
 using Android.Webkit;
-using Android.Opengl;
-using Java.IO;
-using System.IO;
 
 namespace appAndroidDP
 {
-    [Activity(Label = "WbView")]
+    [Activity(Label = "Digital Pages Project")]
     public class WebViewActivity : Activity
     {
 
@@ -23,15 +17,16 @@ namespace appAndroidDP
             SetContentView(Resource.Layout.WebView);
             Button btnFechar = FindViewById<Button>(Resource.Id.fechar);
 
-            Guid id =MainActivity.guid;
-           
+            var id =MainActivity.guid;
+
+            Toast.MakeText(ApplicationContext,"Id Único:" + id.ToString(), ToastLength.Long).Show();
 
             WebView webView = FindViewById<WebView>(Resource.Id.webPage);
-    
+           
+
             webView.Settings.JavaScriptEnabled = true;
-            webView.LoadUrl(string.Format("javascript: codeAddress({0})", id));
+
             webView.LoadUrl("file:///android_asset/page.html");
-            
 
 
             btnFechar.Click += (sender, args) =>

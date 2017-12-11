@@ -1,0 +1,80 @@
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\appAndroidDP.dll
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\appAndroidDP.pdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\appAndroidDP.appAndroidDP.apk
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\appAndroidDP.appAndroidDP-Signed.apk
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\appAndroidDP.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\appAndroidDP.dll
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\appAndroidDP.pdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\android\bin\appAndroidDP.appAndroidDP.apk
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\res\layout\main.xml
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\res\values\strings.xml
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\res\drawable\icon.png
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\R.cs.flag
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\uploadflags.txt
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\appAndroidDP.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\Java.Interop.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\Mono.Android.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\mscorlib.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\System.Core.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\System.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\System.Xml.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\android\assets\appAndroidDP.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\android\assets\System.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\res\layout\webview.xml
+C:\Users\IEUser\Documents\Visual Studio 2015\Projects\DigitalpagesSolution\appAndroidDP\obj\Debug\appAndroidDP.dll.mdb
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\bin\Debug\appAndroidDP.dll
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\bin\Debug\appAndroidDP.pdb
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\bin\Debug\appAndroidDP.appAndroidDP.apk
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\bin\Debug\appAndroidDP.appAndroidDP-Signed.apk
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\obj\Debug\appAndroidDP.dll
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\obj\Debug\appAndroidDP.pdb
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\obj\Debug\android\bin\appAndroidDP.appAndroidDP.apk
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\obj\Debug\res\layout\webview.xml
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\obj\Debug\res\layout\main.xml
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\obj\Debug\res\values\strings.xml
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\obj\Debug\res\drawable\icon.png
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\obj\Debug\R.cs.flag
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\obj\Debug\uploadflags.txt
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\obj\Debug\appAndroidDP.csproj.CoreCompileInputs.cache
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\bin\Debug\appAndroidDP.dll.mdb
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\obj\Debug\android\assets\appAndroidDP.dll.mdb
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\obj\Debug\appAndroidDP.csprojResolveAssemblyReference.cache
+C:\Users\edson.ferreira\Desktop\Digital Pages\DigitalpagesSolution\appAndroidDP\bin\Debug\appAndroidDP.dll
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\appAndroidDP.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
